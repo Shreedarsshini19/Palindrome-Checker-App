@@ -15,7 +15,6 @@ public class UseCase5PalindromeCheckerApp {
         } else {
             System.out.println("The word \"" + word + "\" is NOT a palindrome.");
         }
-
         System.out.println("Program finished.");
     }
 }
